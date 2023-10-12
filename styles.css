@@ -80,6 +80,7 @@ body {
   height: 3em;
   align-items: center;
   border-bottom: 1px var(--Light-grayish-blue) solid;
+  margin: 4px 0px;
 }
 .container__section__content__question__flex:hover {
   color: var(--Soft-red);
